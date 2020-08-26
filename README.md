@@ -14,5 +14,5 @@ AS A user who is health conscious I WANT to keep track of my daily calorie intak
 An app that tracks the caloric intake and the calories burned.
 
 # Demonstration:
-![alt-text](link)
+![demo-gif](https://github.com/sarita87das/project-one-self-work-/blob/master/calorietracker.gif)
 
