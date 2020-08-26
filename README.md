@@ -11,7 +11,7 @@ As a user who is health conscious and want to keep track of their daily calorie 
  https://www.nutritionix.com/database/common-foods
 
 # Summary:
-An app that tracks the calorie intake and the calories burned.
+An app that tracks the calorie intake and the calories burned & Ease the daily chore of logging calories.
 
 # Demonstration:
 ![demo-gif](https://github.com/sarita87das/project-one-self-work-/blob/master/calorietracker.gif)
