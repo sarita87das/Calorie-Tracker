@@ -10,6 +10,13 @@ As a user who is health conscious and want to keep track of their daily calorie 
 # API used:
  https://www.nutritionix.com/database/common-foods
 
+# Tools/Technologies :
+* HTML
+* CSS
+* Javascript
+* Local Storage
+* Google Fonts / Icons / Chart 
+
 # Summary:
 An app that tracks the calorie intake and the calories burned & Ease the daily chore of logging calories.
 
