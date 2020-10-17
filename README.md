@@ -16,3 +16,6 @@ An app that tracks the calorie intake and the calories burned & Ease the daily c
 # Demonstration:
 ![demo-gif](https://github.com/sarita87das/project-one-self-work-/blob/master/calorietracker.gif)
 
+# Plans for future development :
+* To implement the idea for how to make the calorie counts as per the food (variety)
+* Also the body type could be taken into consideration for the mealplan like ( pregnant/babies/obese)
