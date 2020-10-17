@@ -7,6 +7,9 @@ The application will allow users to track calories burned through entering exerc
 # User Story:
 As a user who is health conscious and want to keep track of their daily calorie intake and how much they burn, so that its easy to maintain good health and meet the goals that they define for themselves.
 
+# Landing Page :
+![Test Image](landing%20page%20.png)
+
 # API used:
  https://www.nutritionix.com/database/common-foods
 
